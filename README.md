@@ -1,5 +1,5 @@
 <h1 align="center">API ADVICE GENERATOR README </h1>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/anindyadas2001/api_advice_generator/blob/main/design/active-states.jpg"><img src="https://github.com/anindyadas2001/api_advice_generator/blob/main/design/active-states.jpg"/></a>
 
 
 Made using HTML CSS JS
