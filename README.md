@@ -1,2 +1,3 @@
-This is a Advice generator project .
-Uses Api to do so.
+# Advice generator app #
+Made using HTML CSS JS
+Learnt  how to  interract with 3rd party APIs
