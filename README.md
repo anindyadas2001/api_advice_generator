@@ -1,6 +1,6 @@
 <h1 align="center">API ADVICE GENERATOR README </h1>
 https://github.com/anindyadas2001/api_advice_generator/blob/main/design/active-states.jpg
-<a href="review"><img src="https://github.com/anindyadas2001/api_advice_generator/blob/main/design/active-states.jpg"/></a>
+<a <img src="https://github.com/anindyadas2001/api_advice_generator/blob/main/design/active-states.jpg"/></a>
 Made using HTML CSS JS
 Learnt  how to  interract with 3rd party APIs
 deployed to:
